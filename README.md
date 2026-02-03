@@ -58,4 +58,4 @@ admin.site.register(zeptoDB,zeptoDBAdmin)
 ![alt text](<Screenshot (17).png>)
 
 ## RESULT
-Thus the program for creating E-commerce website database using ORM hass been executed successfully
+Thus the program for creating online food Delivery  website database using ORM hass been executed successfully
